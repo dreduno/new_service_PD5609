@@ -6,7 +6,7 @@ Repozytorium dokumentacji rozwoju nowej usługi medycznej **Telekonsultacje zdro
 prowadzone przy użyciu systemu kontroli wersji **Git** i platformy **GitHub**.
 
 - **Przedmiot:** System kontroli wersji - edycja 7
-- **Autor:** **Leon Petruńko** *(nowe nazwisko Wasilkowski*
+- **Autor:** **Leon Petruńko** *(nowe nazwisko Wasilkowski)*
 - **Numer słuchacza:** *PD5609*
 - **Wersja dokumentacji:** `v1.0` – Gotowy plan wdrożenia usługi medycznej
 
