@@ -1,0 +1,7 @@
+Potencjalne ryzyka:
+
+1. Brak dostępu do stabilnego łącza internetowego przez część pacjentów.
+
+2. Ograniczona możliwość przeprowadzenia pełnego badania fizycznego na odległość.
+
+3. Potencjalne problemy z zapewnieniem bezpieczeństwa danych pacjentów.
