@@ -1,0 +1,7 @@
+Ankieta dla pacjentów:
+
+1. Czy kiedykolwiek korzystałeś z telekonsultacji? (tak/nie)
+
+2. Jakie są Twoje główne obawy związane z telekonsultacjami?
+
+3. Czy wolisz telekonsultacje zamiast tradycyjnej wizyty u lekarza? (tak/nie)
